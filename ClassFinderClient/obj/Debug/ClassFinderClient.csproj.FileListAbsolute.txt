@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderClient\bin\Debug\ClassFinderClient.exe.config
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderClient\bin\Debug\ClassFinderClient.exe
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderClient\bin\Debug\ClassFinderClient.pdb
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderClient\obj\Debug\ClassFinderClient.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderClient\obj\Debug\ClassFinderClient.ClientForm.resources
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderClient\obj\Debug\ClassFinderClient.Properties.Resources.resources
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderClient\obj\Debug\ClassFinderClient.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderClient\obj\Debug\ClassFinderClient.exe
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderClient\obj\Debug\ClassFinderClient.pdb
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderClient\obj\Debug\ClassFinderClient.NewStudentForm.resources
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderClient\obj\Debug\ClassFinderClient.NewCourseForm.resources
+C:\Users\Daniel\Desktop\WCFServicesDemo\ClassFinderClient\bin\Debug\ClassFinderClient.exe.config
+C:\Users\Daniel\Desktop\WCFServicesDemo\ClassFinderClient\obj\Debug\ClassFinderClient.exe
+C:\Users\Daniel\Desktop\WCFServicesDemo\ClassFinderClient\obj\Debug\ClassFinderClient.pdb

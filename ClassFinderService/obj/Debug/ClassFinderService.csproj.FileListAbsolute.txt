@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderService\bin\Debug\ClassFinderService.dll.config
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderService\bin\Debug\ClassFinderService.dll
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderService\bin\Debug\ClassFinderService.pdb
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderService\obj\Debug\ClassFinderService.dll
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderService\obj\Debug\ClassFinderService.pdb
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderService\obj\Debug\ClassFinderService.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderServiceHost\bin\Debug\ClassFinderServiceHost.exe.config
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderServiceHost\bin\Debug\ClassFinderServiceHost.exe
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderServiceHost\bin\Debug\ClassFinderServiceHost.pdb
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderServiceHost\bin\Debug\ClassFinderService.dll
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderServiceHost\bin\Debug\ClassFinderService.pdb
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderServiceHost\obj\Debug\ClassFinderServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderServiceHost\obj\Debug\ClassFinderServiceHost.exe
+C:\Users\Daniel\Desktop\ClassFinderService\ClassFinderServiceHost\obj\Debug\ClassFinderServiceHost.pdb
+C:\Users\Daniel\Desktop\WCFServicesDemo\ClassFinderServiceHost\bin\Debug\ClassFinderServiceHost.exe.config
+C:\Users\Daniel\Desktop\WCFServicesDemo\ClassFinderServiceHost\obj\Debug\ClassFinderServiceHost.exe
+C:\Users\Daniel\Desktop\WCFServicesDemo\ClassFinderServiceHost\obj\Debug\ClassFinderServiceHost.pdb
